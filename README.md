@@ -2,4 +2,4 @@
 
 > A collection of aws cli scripts that i find useful
 
-> Script naming convention: <service>-<action>
+> Script naming convention: {service}-{action}
