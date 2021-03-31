@@ -1,5 +1,5 @@
-# AWS cli scripts
+# AWS
 
-> A collection of aws cli scripts that i find useful
+## Scripts
 
-> Script naming convention: {service}-{action}
+A collection of useful scripts
